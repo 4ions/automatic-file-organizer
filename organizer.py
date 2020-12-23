@@ -30,7 +30,4 @@ for i in list:
                 shutil.move(pwd+"/"+i,pwd+"/"+ date + "/")
         
 #BUGS ACUTALES: Si se ejectuta dos veces, movera todos los y carpetas creadas a la carpeta del dia de hoy!!! :(
-#ES un bug? lo normal es que si se ejecuta re organice nuevamente...., no?
-
-
- 
+#ES un bug? lo normal es que si se ejecuta re organice nuevamente...., no? 
